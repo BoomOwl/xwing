@@ -21500,7 +21500,7 @@ exportObj.hyperspaceShipInclusions = [
     {name: 'Y-Wing', faction: 'Rebel Alliance'}
     {name: 'VCX-100', faction: 'Rebel Alliance'}
     {name: 'Sheathipede-Class Shuttle', faction: 'Rebel Alliance'}
-    {name: 'U-wing', faction: 'Rebel Alliance'}
+    {name: 'U-Wing', faction: 'Rebel Alliance'}
     {name: 'TIE Advanced', faction: 'Galactic Empire'}
     {name: 'TIE Advanced Prototype', faction: 'Galactic Empire'}
     {name: 'TIE Fighter', faction: 'Galactic Empire'}
